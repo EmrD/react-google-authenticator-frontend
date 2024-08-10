@@ -125,6 +125,7 @@ function App() {
               value={authKey}
               onChange={(e) => setAuthKey(e.target.value)}
               placeholder="Authenticator Kodu"
+              autocomplete="off"
             />
             <button
               className="w-full bg-indigo-600 text-white py-2 rounded hover:bg-indigo-700 transition duration-200"
