@@ -13,7 +13,7 @@ This is a simple React application that provides user registration and login fun
 - **Frontend:** React
 - **Styling:** Tailwind CSS
 - **Notifications:** react-hot-toast
-- **Backend:** https://react-authentication-backend.vercel.app/api/  OR https://github.com/EmrD/react-google-authenticator.git
+- **Backend:** https://react-authentication-backend.vercel.app  OR https://github.com/EmrD/react-google-authenticator.git
 
 ## Setup and Installation
 
